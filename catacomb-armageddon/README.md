@@ -1,4 +1,3 @@
-<<<<<<< HEAD:README.md
 This repository collects the source code to various early DOS raycaster
 shoot-'em ups which have been since been released under open source
 licenses.
@@ -20,4 +19,3 @@ source code.
 To run the executable, the following command must be used or the check must be
 disabled in C5_MAIN.C:
     armgame.exe ^(a@&r`
->>>>>>> 2d2130488a83e6e40114154732c35724431aa3ef:catacomb-armageddon/README.md

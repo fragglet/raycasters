@@ -1,4 +1,3 @@
-<<<<<<< HEAD:README.md
 This repository collects the source code to various early DOS raycaster
 shoot-'em ups which have been since been released under open source
 licenses.
@@ -20,4 +19,3 @@ source code.
 To run the executable, the following command must be used or the check must be
 disabled in C6_MAIN.C:
     apocgame.exe ^(a@&r`
->>>>>>> 17c4f3e8068f2b07f0b8297370c79d0bac7a4cf3:catacomb-apocalypse/README.md
